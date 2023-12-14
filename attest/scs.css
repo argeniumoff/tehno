@@ -3,7 +3,7 @@ body {
     max-height:1080px;
     width: 100%;
     margin: auto;
-    background: url(/img/backround-image1.jpg) no-repeat center ;
+    background: url(img/backround-image1.jpg) no-repeat center ;
     background-size: 1920px 1580px;
     height: 100%;
     color: #fff;
